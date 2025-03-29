@@ -1,4 +1,4 @@
-# Glowing Project
+# Glowing Project 
 
 ### A modern landing page for Food Mart, built using HTML, CSS, and JavaScript.
 
@@ -13,7 +13,7 @@
 - Smooth animations and transitions 🎨  
 - Interactive UI with JavaScript ✨  
 - Mobile-friendly navigation 📱  
-- Menu showcase and contact section 🍔  
+- Menu showcase and contact section   
 
 
 ## 🛠️ Technologies Used
@@ -25,4 +25,4 @@
 ## 📜 License
 This project is open-source and available under the MIT License.
 
-### 🌟 Star this repo if you like it! 😊
+**🌟 Star this repo if you like it! 😊**
